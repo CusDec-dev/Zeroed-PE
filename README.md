@@ -78,3 +78,5 @@ Download here [Zeroed-PE](https://github.com/CusDec-dev/Zeroed-PE/releases/tag/R
   - `2500+` lines of code
   - Continuous PE mutation improvements
   - Designed for mutation of your **own PE files**
+
+-  ⭐ **Please star this project**
