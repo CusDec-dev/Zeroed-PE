@@ -55,6 +55,7 @@ Update "Break UPX detection signature" add EntryPoint patching and break retdec-
 DO NOT removing full DOS message, before: This program cannot be run in DOS mode. after: This program cannot be run
 Break MPRESS signature and break retdec-unpacker (Tested on Detect It Easy)
 Removing PureBasic signature
+TriProt Cryptor get removed of project
 RECORD!!! 2500+ Lines of code
 #######################################
 
