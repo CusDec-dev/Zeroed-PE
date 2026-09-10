@@ -2,6 +2,8 @@
 Windows PE (Portable Executable) file mutator.  
 This is **not a protector or packer** — this is a low-level mutator for your **OWN PE files**.
 
+Download here [Zeroed-PE](https://github.com/CusDec-dev/Zeroed-PE/releases/tag/Release)
+
 # Features
 
 - **PE Metadata Cleanup**
