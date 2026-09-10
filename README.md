@@ -1,2 +1,1 @@
-# Zeroed-PE
-Hello
+![Zeroed-PE Banner](banner.png)
