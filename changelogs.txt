@@ -59,11 +59,6 @@ TriProt Cryptor get removed of project
 RECORD!!! 2500+ Lines of code
 #######################################
 
-############# Detect It Easy Help:) #############
-https://github.com/horsicq/Detect-It-Easy/issues/382
-https://github.com/horsicq/Detect-It-Easy/commit/9b377a8b839db09be5e91bcf9be31ff6c0c9b92f
-#######################################
-
 SSSSSSSSSs.                                                                     .sSSSSs.    .sSSSSs.    Author: CusDec 
 SSSSSSSSSSS .sSSSSs.    .sSSSSSSSs. .sSSSSs.    .sSSSSs.    .sSSSSs.            SSSSSSSSSs. SSSSSSSSSs. Github: https://github.com/CusDec-dev
      S SSS  S SSSSSSSs. S SSS SSSSS S SSSSSSSs. S SSSSSSSs. S SSSSSSSs.         S SSS SSSSS S SSS SSSS' 
