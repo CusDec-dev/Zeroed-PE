@@ -56,7 +56,6 @@ Download here [Zeroed-PE](https://github.com/CusDec-dev/Zeroed-PE/releases/tag/R
   - Break MPRESS signatures
   - MPRESS EntryPoint mutation
   - Break ASM-Guard signatures
-  - Break TriProt cryptor EntryPoint signatures
   - Break Obfus.h signatures
   - Break ObfusHeader.h signatures
   - TinyCC EntryPoint patching for x86 PE files
