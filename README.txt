@@ -60,7 +60,7 @@ https://github.com/horsicq/Detect-It-Easy/commit/9b377a8b839db09be5e91bcf9be31ff
 ############# V1.0.3 ############# 10.09.2026
 Update "Break UPX detection signature" add EntryPoint patching and break retdec-unpacker
 DO NOT removing full DOS message, before: This program cannot be run in DOS mode. after: This program cannot be run
-Break MPRESS signature and break retdec-unpacker (Tested on Detect It Easy)
+Break MPRESS signature and break retdec-unpacker (Tested on Detect It Easy and ExeinfoPE)
 Removing PureBasic signature
 TriProt Cryptor get removed of project
 RECORD!!! 2500+ Lines of code
