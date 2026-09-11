@@ -67,3 +67,8 @@ Removing PureBasic signature
 TriProt Cryptor get removed of project
 RECORD!!! 2500+ Lines of code
 #######################################
+
+############# Detect It Easy Help:) #############
+https://github.com/horsicq/Detect-It-Easy/issues/382
+https://github.com/horsicq/Detect-It-Easy/commit/60e5f9529858aba3972c984b08907ccb48b51c6a
+#######################################
