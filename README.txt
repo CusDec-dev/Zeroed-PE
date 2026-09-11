@@ -1,3 +1,9 @@
+WELCOME
+=======
+
+Welcome to Zeroed-PE!
+
+Zeroed-PE is a free, secure, portable, mutator for PE files.
 
 ############# V1.0.0 ############# 04.09.2026
 Removing DOS message: This program cannot be run in DOS mode
@@ -59,17 +65,3 @@ Removing PureBasic signature
 TriProt Cryptor get removed of project
 RECORD!!! 2500+ Lines of code
 #######################################
-
-SSSSSSSSSs.                                                                     .sSSSSs.    .sSSSSs.    Author: CusDec 
-SSSSSSSSSSS .sSSSSs.    .sSSSSSSSs. .sSSSSs.    .sSSSSs.    .sSSSSs.            SSSSSSSSSs. SSSSSSSSSs  Github: https://github.com/CusDec-dev
-     S SSS  S SSSSSSSs. S SSS SSSSS S SSSSSSSs. S SSSSSSSs. S SSSSSSSs.         S SSS SSSSS S SSS SSSS' 
-    S  SS   S  SS SSSS' S  SS SSSS' S  SS SSSSS S  SS SSSS' S  SS SSSSS         S  SS SSSSS S  SS       
-   S..SS    S..SS       S..SSsSSSa. S..SS SSSSS S..SS       S..SS SSSSS sssssss S..SS SSSSS S..SSsss    
-  S:::S     S:::SSSS    S:::S SSSSS S:::S SSSSS S:::SSSS    S:::S SSSSS         S:::SsSSSSS S:::SSSS    
- S;;;S      S;;;S       S;;;S SSSSS S;;;S SSSSS S;;;S       S;;;S SSSSS         S;;;S       S;;;S       
-S%%%SSSSSSS S%%%S SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S SSSSS S%%%S SSSS'         S%%%S       S%%%S SSSSS 
-SSSSSSSSSSS SSSSSsSS;:' SSSSS SSSSS SSSSSsSSSSS SSSSSsSS;:' SSSSSsS;:'          SSSSS       SSSSSsSS;:' 
-                                                                                                        
-                                                                       
-                                             
-                                             
