@@ -5,6 +5,8 @@ Welcome to Zeroed-PE!
 
 Zeroed-PE is a free, secure, portable, mutator for PE files.
 
+Current version: V1.0.3
+
 ############# V1.0.0 ############# 04.09.2026
 Removing DOS message: This program cannot be run in DOS mode
 Removing Rich, DanS
