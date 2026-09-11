@@ -70,3 +70,10 @@ RECORD!!! 2500+ Lines of code
 https://github.com/horsicq/Detect-It-Easy/issues/382
 https://github.com/horsicq/Detect-It-Easy/commit/60e5f9529858aba3972c984b08907ccb48b51c6a
 #######################################
+
+############# V1.0.4 ############# 11.09.2026
+Fixed bug with MPRESS and ASPack
+Break Eronana packer signature (Tested on Detect It Easy and ExeinfoPE)
+Break Simple PE Packer by DX signature (Tested on ExeinfoPE)
+Updated ASPack, MPRESS, Eronana, Kaimi,ASM-Guard,UPX Entry point patching
+#######################################
