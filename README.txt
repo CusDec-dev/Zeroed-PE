@@ -1,4 +1,4 @@
-![Zeroed-PE Banner](banner.png)
+
 ############# V1.0.0 ############# 04.09.2026
 Removing DOS message: This program cannot be run in DOS mode
 Removing Rich, DanS
