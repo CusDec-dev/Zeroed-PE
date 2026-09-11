@@ -5,13 +5,13 @@ Removing Debug directory
 Removing pdb paths
 Removing in .NET file DotNET version (support only v2.0 or 4.0)
 Blank section names
-Break ASPack Detection signature (Tested on Detect It Easy)
+Break ASPack Detection signature (Tested on Detect It Easy and ExeinfoPE)
 Break UPX Detection signature and make "upx -d" unpacking impossible (Tested on Detect It Easy and the newest upx 5.2.0)
 Removing compiler signatures: il2cpp, FASM, TASM, Borland, MinGW, GCC, Clang, Microsoft Linker/Visual
-Break TinyCC compiler signatures and patch EP (Tested on Detect It Easy) only for x86 files
+Break TinyCC compiler signatures and patch EP (Tested on Detect It Easy and ExeinfoPE) only for x86 files
 Zeroed TimeDateStamp to minimal (1970-01-01 UTC / Unix epoch 0)
 Removing signatures detection for AHTeam EP Protector (Tested on Detect It Easy)
-Removing PyInstaller strings, Anti-pyinstxtractor
+Removing PyInstaller strings, Anti-pyinstxtractor (Tested on ExeinfoPE and pyinstxtractor)
 Normalize linker/subsystem versions
 Randomize import DLL casing
 #######################################
@@ -51,13 +51,26 @@ https://github.com/horsicq/Detect-It-Easy/commit/9b377a8b839db09be5e91bcf9be31ff
 #######################################
       
 ############# V1.0.3 ############# 10.09.2026
-Update "Break UPX detection signature" add EntryPoint patching and break retdec-unpacker
+Update "Break UPX detection signature" add EntryPoint patching and break retdec-unpacker (Tested on Detect It Easy and ExeinfoPE)
 DO NOT removing full DOS message, before: This program cannot be run in DOS mode. after: This program cannot be run
-Break MPRESS signature and break retdec-unpacker (Tested on Detect It Easy)
+Break MPRESS signature and break retdec-unpacker (Tested on Detect It Easy and EXEinfoPE)
 Removing PureBasic signature
 TriProt Cryptor get removed of project
 RECORD!!! 2500+ Lines of code
 #######################################
+
+############# Detect It Easy Help:) #############
+https://github.com/horsicq/Detect-It-Easy/issues/382
+https://github.com/horsicq/Detect-It-Easy/commit/60e5f9529858aba3972c984b08907ccb48b51c6a
+#######################################
+
+############# V1.0.4 ############# 11.09.2026
+Fixed bug with MPRESS and ASPack
+Break Eronana packer signature (Tested on Detect It Easy and ExeinfoPE)
+Break Simple PE Packer by DX signature (Tested on ExeinfoPE)
+Updated ASPack, MPRESS, Eronana, Kaimi,ASM-Guard,UPX Entry point patching
+#######################################
+
 
 SSSSSSSSSs.                                                                     .sSSSSs.    .sSSSSs.    Author: CusDec 
 SSSSSSSSSSS .sSSSSs.    .sSSSSSSSs. .sSSSSs.    .sSSSSs.    .sSSSSs.            SSSSSSSSSs. SSSSSSSSSs. Github: https://github.com/CusDec-dev
