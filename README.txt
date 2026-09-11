@@ -1,5 +1,3 @@
-WELCOME
-=======
 
 Welcome to Zeroed-PE!
 
