@@ -1,4 +1,3 @@
-
 Welcome to Zeroed-PE!
 
 Zeroed-PE is a free, secure, portable, mutator for PE files.
