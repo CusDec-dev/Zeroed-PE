@@ -76,5 +76,6 @@ Fixed bug with MPRESS and ASPack
 Break Eronana packer signature (Tested on Detect It Easy and ExeinfoPE)
 Break Simple PE Packer by DX signature (Tested on ExeinfoPE)
 Updated ASPack, MPRESS, Eronana, Kaimi,ASM-Guard,UPX Entry point patching
+Break nuitka signature (Tested on Detect It Easy)
 RECORD!!! 3000+ Lines of code
 #######################################
