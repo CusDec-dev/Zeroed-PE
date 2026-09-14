@@ -85,6 +85,7 @@ Break BeRoEXEPacker signature (Tested on Detect It Easy and ExeinfoPE)
 Break ROPacker signature (Tested on Detect It Easy)
 Break Chenzs108 PE Packer signature (Tested on Detect It Easy)
 Break xor_packer signature(Tested on Detect It Easy)
+RECORD!!! 3500+ Lines of code
 #######################################
 
 All links( not ADs, not checked on VirusTotal ):
