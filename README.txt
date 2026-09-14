@@ -3,7 +3,7 @@ Welcome to Zeroed-PE!
 Zeroed-PE is a free, secure, portable, mutator for PE files.
 Support only .exe files!!!
 
-Current version: V1.0.4
+Current version: V1.0.5
 
 ############# V1.0.0 ############# 04.09.2026
 Removing DOS message: This program cannot be run in DOS mode
@@ -79,3 +79,39 @@ Updated ASPack, MPRESS, Eronana, Kaimi,ASM-Guard,UPX Entry point patching
 Break nuitka signature (Tested on Detect It Easy)
 RECORD!!! 3000+ Lines of code
 #######################################
+
+############# V1.0.5 ############# 13.09.2026
+Break BeRoEXEPacker signature (Tested on Detect It Easy and ExeinfoPE)
+Break ROPacker signature (Tested on Detect It Easy)
+Break Chenzs108 PE Packer signature (Tested on Detect It Easy)
+Break xor_packer signature(Tested on Detect It Easy)
+#######################################
+
+All links( not ADs, not checked on VirusTotal ):
+https://github.com/czs108/Windows-PE-Packer
+https://github.com/eternaleclipse/xor_packer
+https://github.com/upx/upx
+https://github.com/avast/retdec
+https://github.com/horsicq/detect-it-easy
+https://github.com/ExeinfoASL/Exeinfo
+https://github.com/DosX-dev/ASM-Guard
+https://github.com/Eronana/packer
+https://github.com/requaos/mPress
+https://blog.rosseaux.net/page/875fbe6549aa072b5ee0ac9cefff4827/BeRoEXEPacker
+http://www.aspack.com/ 
+https://github.com/DosX-dev/obfus.h
+https://github.com/ac3ss0r/obfusheader.h
+https://ahteam.org/oursoft.html?do=view&id=6 
+https://kaimi.io/2012/09/pe-packer-step-by-step-1/
+https://github.com/TaviF24/ROPacker
+https://github.com/extremecoders-re/pyinstxtractor
+https://pyinstaller.org/en/stable/
+https://nuitka.net/
+
+A bit about the project:
+1. This project is written entirely in C by me, the sole author (CusDec).
+2. I try to update the project frequently, manually searching for packers and checking whether their signatures exist in the Detect It Easy or ExeinfoPE databases.
+3. The Zeroed-PE project was not originally intended to expand beyond its core function of wiping packer signatures.
+4. Why choose my project over another? It’s simple: this project receives real-time support. You can see this for yourself in the "Releases" tab or in my changelogs, where I document every version and date.
+5. Why hasn't the Zeroed-PE source code been made public? I see no need for it, given that the tool effectively performs its intended functions.I simply packed it using UPX + Zeroed-PE; I consider this the best way to demonstrate that my software works. If I were truly concerned about the source code, I would have used VMProtect—a protector popular with everyone.
+
