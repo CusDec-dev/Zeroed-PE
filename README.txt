@@ -3,7 +3,7 @@ Welcome to Zeroed-PE!
 Zeroed-PE is a free, secure, portable, mutator for PE files.
 Support only .exe files!!!
 
-Current version: V1.0.5
+Current version: V1.0.7
 
 ############# V1.0.0 ############# 04.09.2026
 Removing DOS message: This program cannot be run in DOS mode
@@ -88,6 +88,15 @@ Break xor_packer signature(Tested on Detect It Easy)
 RECORD!!! 3500+ Lines of code
 #######################################
 
+############# V1.0.6 ############# 14.09.2026
+Break notcpuid packer signature (Tested on Detect It Easy)
+#######################################
+
+############# V1.0.7 ############# 15.09.2026
+Updated entry point patching 
+Added e_* randomization ( for x86/x64 architecture ) 
+#######################################
+
 All links( not ADs, not checked on VirusTotal ):
 https://github.com/czs108/Windows-PE-Packer
 https://github.com/eternaleclipse/xor_packer
@@ -108,6 +117,7 @@ https://github.com/TaviF24/ROPacker
 https://github.com/extremecoders-re/pyinstxtractor
 https://pyinstaller.org/en/stable/
 https://nuitka.net/
+https://github.com/notcpuid/pe-packer
 
 A bit about the project:
 1. This project is written entirely in C by me, the sole author (CusDec).
