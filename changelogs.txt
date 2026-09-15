@@ -1,4 +1,4 @@
-############# V1.0.0 ############# 04.09.2026
+############# V1.0.0 ############# 04.09.2026                          VGhlIGxhc3QgdmVyc2lvbiwgaSBkb24ndCB3YW5uYSBjb250aW51ZSB0aGlzIHByb2plY3Q                                                                                                                                                                                                                                                      
 Removing DOS message: This program cannot be run in DOS mode
 Removing Rich, DanS
 Removing Debug directory
@@ -51,7 +51,7 @@ https://github.com/horsicq/Detect-It-Easy/commit/9b377a8b839db09be5e91bcf9be31ff
 #######################################
       
 ############# V1.0.3 ############# 10.09.2026
-Update "Break UPX detection signature" add EntryPoint patching and break retdec-unpacker (Tested on Detect It Easy and ExeinfoPE)
+Update "Break UPX detection signature" add EntryPoint patching and break retdec-unpacker (Tested on Detect It Easy and ExeinfoPE)                                                                                                                                       
 DO NOT removing full DOS message, before: This program cannot be run in DOS mode. after: This program cannot be run
 Break MPRESS signature and break retdec-unpacker (Tested on Detect It Easy and EXEinfoPE)
 Removing PureBasic signature
@@ -81,6 +81,15 @@ Break xor_packer signature(Tested on Detect It Easy)
 RECORD!!! 3500+ Lines of code
 #######################################
 
+############# V1.0.6 ############# 14.09.2026
+Break notcpuid packer signature (Tested on Detect It Easy)
+#######################################
+
+############# V1.0.7 ############# 15.09.2026
+Updated entry point patching 
+Added e_* randomization ( for x86/x64 architecture ) 
+#######################################
+
 All links( not ADs, not checked on VirusTotal ):
 https://github.com/czs108/Windows-PE-Packer
 https://github.com/eternaleclipse/xor_packer
@@ -101,6 +110,8 @@ https://github.com/TaviF24/ROPacker
 https://github.com/extremecoders-re/pyinstxtractor
 https://pyinstaller.org/en/stable/
 https://nuitka.net/
+https://github.com/notcpuid/pe-packer
+
 
 SSSSSSSSSs.                                                                     .sSSSSs.    .sSSSSs.    Author: CusDec 
 SSSSSSSSSSS .sSSSSs.    .sSSSSSSSs. .sSSSSs.    .sSSSSs.    .sSSSSs.            SSSSSSSSSs. SSSSSSSSSs. Github: https://github.com/CusDec-dev
@@ -118,6 +129,8 @@ A bit about the project:
 3. The Zeroed-PE project was not originally intended to expand beyond its core function of wiping packer signatures.
 4. Why choose my project over another? It’s simple: this project receives real-time support. You can see this for yourself in the "Releases" tab or in my changelogs, where I document every version and date.
 5. Why hasn't the Zeroed-PE source code been made public? I see no need for it, given that the tool effectively performs its intended functions.I simply packed it using UPX + Zeroed-PE; I consider this the best way to demonstrate that my software works. If I were truly concerned about the source code, I would have used VMProtect—a protector popular with everyone.
+
+                                                                    
                                                                        
                                              
                                              
